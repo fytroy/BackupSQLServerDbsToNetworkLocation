@@ -11,8 +11,8 @@ The scripts backup all user databases from a SQL Server instance to a network sh
 - BackupToServer.bat - Batch file wrapper that executes the PowerShell backup script with proper execution policy
 - BackupToServer.ps1 - PowerShell script for database backup operations
 
--BackupToServer.ps1 -This PowerShell script performs a backup of SQL Server databases to a network location.
--BackupToServer.bat -This is a batch file that calls PowerShell to perform SQL Server database backups with significant improvements over the previous version.
+- BackupToServer.ps1 -This PowerShell script performs a backup of SQL Server databases to a network location.
+- BackupToServer.bat -This is a batch file that calls PowerShell to perform SQL Server database backups with significant improvements over the previous version.
 
  Features
 
